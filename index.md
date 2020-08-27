@@ -1,5 +1,7 @@
 ## Welcome to Caelan Grippa's Programming Portfolio
 
+![Typing Test](https://github.com/Recruit49/ProgramCP/blob/gh-pages/images/TypingTestAugust.png?raw=true)
+
 You can use the [editor on GitHub](https://github.com/Recruit49/ProgramCP/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
