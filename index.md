@@ -7,6 +7,6 @@
 An OOP space-themed shooter created in the Processing IDE during the winter of 2020.
 
 
-![SpaceGameNeeded]()
+![SpaceGameNeeded](https://github.com/CG-SKYLN/CPportfolioB4/blob/gh-pages/images/TypingTestAugust.png)
 
 link to source code.
