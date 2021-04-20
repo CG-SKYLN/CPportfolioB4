@@ -16,6 +16,6 @@ Source Code : [SpaceGame](https://github.com/CG-SKYLN/CPportfolioB4/tree/gh-page
 An OOP application written in the Processing IDE during the winter of 2020
 
 
-![Calculator]()
+![Calculator](https://github.com/CG-SKYLN/CPportfolioB4/blob/gh-pages/images/CalculatorPreview.png?raw=true)
 
 Source Code : [Calculator](https://github.com/CG-SKYLN/CPportfolioB4/tree/gh-pages/src/Calculator)
