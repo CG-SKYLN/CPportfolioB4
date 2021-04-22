@@ -32,4 +32,4 @@ An interactive timeline with facts about different types of computers throughout
 
 ![Timeline](https://github.com/CG-SKYLN/CPportfolioB4/blob/gh-pages/images/Computer_History_Preview.png?raw=true)
 
-Source Code : [ComputerTimeline]()
+Source Code : [History of the Computer]()
