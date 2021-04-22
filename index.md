@@ -45,7 +45,7 @@ Source Code : [Carz](https://github.com/CG-SKYLN/CPportfolioB4/tree/gh-pages/src
 
 ### ScreenSaver
 
-An application that draws random lines across your entire screen. Written in the wintr of 2020
+An application that draws random lines across your entire screen. Written in the winter of 2020
 
 ![ScreenSaver](https://raw.githubusercontent.com/CG-SKYLN/CPportfolioB4/gh-pages/images/ScreenSaverPreview.png)
 
