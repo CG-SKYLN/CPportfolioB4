@@ -7,7 +7,7 @@ Bio :
 
 ## Processing Projects
 
-### SpaeGame
+### SpaceGame
 
 An OOP space-themed shooter created in the Processing IDE during the winter of 2020.
 
