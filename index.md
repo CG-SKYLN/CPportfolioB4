@@ -18,9 +18,16 @@ Source Code : [SpaceGame](https://github.com/CG-SKYLN/CPportfolioB4/tree/gh-page
 
 ### Calculator
 
-An OOP application written in the Processing IDE during the winter of 2020
+An OOP application written in the Processing IDE during the winter of 2020.
 
 
 ![Calculator](https://github.com/CG-SKYLN/CPportfolioB4/blob/gh-pages/images/CalculatorPreview.png?raw=true)
 
 Source Code : [Calculator](https://github.com/CG-SKYLN/CPportfolioB4/tree/gh-pages/src/Calculator)
+
+### History of the Computer
+
+An interactive timeline with facts about different types of computers throughout history. Made in the winter of 2020.
+
+
+![Timeline]()
