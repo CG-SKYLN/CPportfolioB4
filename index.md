@@ -30,6 +30,6 @@ Source Code : [Calculator](https://github.com/CG-SKYLN/CPportfolioB4/tree/gh-pag
 An interactive timeline with facts about different types of computers throughout history. Made in the winter of 2020.
 
 
-![Timeline]()
+![Timeline](https://github.com/CG-SKYLN/CPportfolioB4/blob/gh-pages/images/Computer_History_Preview.png?raw=true)
 
 Source Code : [ComputerTimeline]()
