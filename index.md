@@ -5,6 +5,15 @@ Bio :
 
 [Secondary Email](mailto:hotronan1@gmail.com)
 
+## Javascript Projects
+
+### Supercar Stats
+
+
+
+
+![SupercarStatsv1.0](https://github.com/CG-SKYLN/CPportfolioB4/blob/gh-pages/images/v1.0Preview.png)
+
 ## Processing Projects
 
 ### SpaceGame
