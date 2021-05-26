@@ -9,7 +9,7 @@ Bio :
 
 ### Supercar Stats
 
-
+A web-based informational app. Made in the summer of 2021.
 
 
 ![SupercarStatsv1.0](https://github.com/CG-SKYLN/CPportfolioB4/blob/gh-pages/images/v1.0Preview.png)
