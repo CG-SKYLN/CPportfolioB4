@@ -12,6 +12,7 @@ Bio :
 A web-based informational app. Made in the summer of 2021. 
 
 [Link to the app](http://supercarstats.great-site.net).
+
 [Link to Github Project](https://github.com/CG-SKYLN/Program.Project). 
 
 
