@@ -9,7 +9,7 @@ Bio :
 
 ### Supercar Stats
 
-A web-based informational app. Made in the summer of 2021. 
+A web-based informational app about various cars from several brands. Made with Nate Sauthoff in the summer of 2021. 
 
 [Link to the app](http://supercarstats.great-site.net).
 
